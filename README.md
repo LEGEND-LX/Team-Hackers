@@ -1,4 +1,6 @@
 # Team-Hackers
+https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/cli.gif
+
 
 https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/socialanalyzerlogo_.png
 
