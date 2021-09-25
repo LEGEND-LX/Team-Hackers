@@ -27,6 +27,8 @@ Security Testing
 Find Profile CLI (Fast)
 https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/cli.gif
 
+https://raw.githubusercontent.com/qeeqbox/social-analyzer/main/readme/cli.gif
+
 Features
 String & name analysis (Permutations and Combinations)
 Find profile using multiple techniques (HTTPS library & Webdriver)
